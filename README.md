@@ -1,6 +1,8 @@
 # React-counter
 Simple react counter app.
 
+## Live preview :- https://nikfcb.github.io/reactcounter/
+
 Topics covered :- 
 
 1. Fucntional based components.
