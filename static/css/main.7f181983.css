@@ -1,0 +1,2 @@
+.app{display:flex;flex-direction:row;justify-content:center;margin-top:10rem}.app .count{display:flex;margin-bottom:2rem;margin-left:10rem;text-align:center}.app .count h3{line-height:8.6rem;margin-right:1rem}.app .count h1{font-size:5em;margin-top:2rem}.app .buttons button{border:none;border-radius:50%;box-shadow:0 4px 32px 0 rgba(10,14,29,.02),0 8px 64px 0 rgba(10,14,29,.08);cursor:pointer;font-size:5em;height:10rem;margin:0 2rem;width:10rem}.app .buttons button:hover{font-size:7em}.app .buttons button:focus{outline:0}
+/*# sourceMappingURL=main.7f181983.css.map*/
