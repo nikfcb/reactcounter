@@ -1,4 +1,4 @@
-# reactcounter
+# React-counter
 Simple react counter app.
 
 Topics covered :- 
